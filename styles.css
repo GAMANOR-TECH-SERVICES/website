@@ -1,0 +1,21 @@
+/* Custom CSS */
+html, body {
+  height: 100%;
+  margin: 0;
+  background-image: url('8189.jpg');
+  background-size: cover; /* makes the image cover whole area */
+  background-repeat: no-repeat; /* prevents tiling */
+  background-position: center center; /* centers the image */
+  background-attachment: fixed; /* keeps background fixed on scroll */
+}
+
+
+
+
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 6px 0;
+  text-align: center;
+  margin-top: 40px;
+}
